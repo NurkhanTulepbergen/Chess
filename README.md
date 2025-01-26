@@ -66,5 +66,7 @@ We welcome contributions to enhance this project! Feel free to fork the reposito
 ## Contact
 
 For any questions or feedback, please reach out to:
+
 Email: n_tulepbergen@kbtu.kz
+
 GitHub: NurkhanTulepbergen
