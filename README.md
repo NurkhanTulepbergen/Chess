@@ -1,4 +1,4 @@
-#Chess Game with AI
+# Chess Game with AI
 
 ##Overview
 
